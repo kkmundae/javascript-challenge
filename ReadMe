@@ -6,3 +6,11 @@ There is just one tiny problem though... our collection is too large to search t
 That's why we are hiring you. We need you to write code that will create a table dynamically based upon a [dataset we provide](StarterCode/static/js/data.js). We also need to allow our users to filter the table data for specific values. There's a catch though... we only use pure JavaScript, HTML, and CSS, and D3.js on our web pages. They are the only coding languages which can be trusted.
 
 You can handle this... right? The planet Earth needs to know what we have found!
+
+This webpage shows the UFO sightings using Javascript, HTML, CSS and D3.js. The webpage can be found at ----------------.
+
+This homework assignment shows how javascript can be used to create an interactive website.
+
+There are two pages to the site:
+1. Level 1 allows the user to enter a data in the filter field. After pushing the button the dataset is filtered to show occurances on that specific day.
+2. Level 2 allows for further filtration for Data, City, State, Country, and Shape
